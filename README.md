@@ -22,6 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
+![127 0 0 1_5500_](https://github.com/avinash4364/Order-Summary-Component/assets/24203618/67c3b9ed-767d-42e2-aaa3-6562930fb70b)
+![127 0 0 1_5500_ (1)](https://github.com/avinash4364/Order-Summary-Component/assets/24203618/12275016-b0eb-4dd8-bdb1-b9b9550a3f0e)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
